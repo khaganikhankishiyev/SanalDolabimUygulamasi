@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062414092051",
+    "project_id": "sanaldolabimdb",
+    "storage_bucket": "sanaldolabimdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062414092051:android:405847ddad6bdacd12fce6",
+        "android_client_info": {
+          "package_name": "com.example.sanaldolabmuygulamas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062414092051-cud0ks1mmalp6r7d5cf515o0707opnpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmx36aA4_ruhmCJeyaRHv_GVfjFd1ACOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062414092051-cud0ks1mmalp6r7d5cf515o0707opnpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
